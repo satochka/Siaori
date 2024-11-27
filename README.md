@@ -20,7 +20,7 @@
         <hr>
         <h2>Socials</h2>
         <div class="socials">
-            <a href="https://vk.com/xexv">
+            <a href="https://vk.com/kaeteu">
                 <img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
             </a>
             <a href="https://discord.gg/xexv">
@@ -29,7 +29,7 @@
             <a href="https://steamcommunity.com/id/xexv/">
                 <img src="https://img.shields.io/static/v1?label=&message=steam&color=191919&style=for-the-badge&logo=Steam" alt="Steam">
             </a>
-            <a href="https://t.me/xexv">
+            <a href="https://t.me/kaeteu">
                 <img src="https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram" alt="Telegram">
             </a>
         </div>
