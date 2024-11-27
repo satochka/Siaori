@@ -26,7 +26,7 @@
             <a href="https://discord.gg/xexv">
                 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
             </a>
-            <a href="https://steamcommunity.com/id/xexv/">
+            <a href="https://steamcommunity.com/id/kaeteu/">
                 <img src="https://img.shields.io/static/v1?label=&message=steam&color=191919&style=for-the-badge&logo=Steam" alt="Steam">
             </a>
             <a href="https://t.me/kaeteu">
