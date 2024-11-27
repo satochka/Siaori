@@ -16,7 +16,7 @@
         <hr>
         <h2>About me</h2>
         <p>I'm Artem Oblezov, a student of the Financial University under the Government of the Russian Federation</p>
-        <p>Email: <a href="mailto:oblezovartem@gmail.com">oblezovartem@gmail.com</a></p>
+        <p>Email: <a href="mailto:oblezovartem@gmail.com">zs.atochka@gmail.com</a></p>
         <hr>
         <h2>Socials</h2>
         <div class="socials">
